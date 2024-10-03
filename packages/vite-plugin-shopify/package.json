@@ -35,8 +35,11 @@
     "vite": "^5.0.0"
   },
   "dependencies": {
+    "@shopify/cli-kit": "^3.67.2",
+    "@shopify/plugin-cloudflare": "^3.67.2",
     "debug": "^4.3.4",
-    "fast-glob": "^3.2.11"
+    "fast-glob": "^3.2.11",
+    "picocolors": "^1.0.0"
   },
   "devDependencies": {
     "tsconfig": "workspace:*",
